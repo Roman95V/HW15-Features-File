@@ -13,44 +13,44 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="SpecFlowFeature1.feature.cs">
+    <Compile Update="ClientChat.feature.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>SpecFlowFeature1.feature</DependentUpon>
+      <DependentUpon>ClientChat.feature</DependentUpon>
     </Compile>
-    <Compile Update="SpecFlowFeature2.feature.cs">
+    <Compile Update="ClientListPage.feature.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>SpecFlowFeature2.feature</DependentUpon>
+      <DependentUpon>ClientListPage.feature</DependentUpon>
     </Compile>
-    <Compile Update="SpecFlowFeature3.feature.cs">
+    <Compile Update="Login.feature.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>SpecFlowFeature3.feature</DependentUpon>
+      <DependentUpon>Login.feature</DependentUpon>
     </Compile>
-    <Compile Update="SpecFlowFeature4.feature.cs">
+    <Compile Update="ManagerChat.feature.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>SpecFlowFeature4.feature</DependentUpon>
+      <DependentUpon>ManagerChat.feature</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="SpecFlowFeature1.feature">
+    <None Update="ClientChat.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>SpecFlowFeature1.feature.cs</LastGenOutput>
+      <LastGenOutput>ClientChat.feature.cs</LastGenOutput>
     </None>
-    <None Update="SpecFlowFeature2.feature">
+    <None Update="ClientListPage.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>SpecFlowFeature2.feature.cs</LastGenOutput>
+      <LastGenOutput>ClientListPage.feature.cs</LastGenOutput>
     </None>
-    <None Update="SpecFlowFeature3.feature">
+    <None Update="Login.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>SpecFlowFeature3.feature.cs</LastGenOutput>
+      <LastGenOutput>Login.feature.cs</LastGenOutput>
     </None>
-    <None Update="SpecFlowFeature4.feature">
+    <None Update="ManagerChat.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>SpecFlowFeature4.feature.cs</LastGenOutput>
+      <LastGenOutput>ManagerChat.feature.cs</LastGenOutput>
     </None>
   </ItemGroup>
 
